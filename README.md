@@ -16,9 +16,9 @@ MongoDB/Mongoose
 1. Git Clone/download the project to your local machine
 2. Navigate to the root of the project using terminal
 3. Install all dependencies by ruuning
-$ npm install
-4. Launch the application by running the following command
-$ npm start
-5. Open chrome/safari and navigate to http://localhost:3000
+4. $ npm install
+5. Launch the application by running the following command
+6. $ npm start
+7. Open chrome/safari and navigate to http://localhost:3000
 
 Heroku Link - https://afternoon-anchorage-26365.herokuapp.com
